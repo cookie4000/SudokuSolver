@@ -1,2 +1,2 @@
 # SudokuSolver
-C# Console App using backtracking to solve Sudokus
+C# Console App using backtracking to solve Sudoku puzzles
